@@ -18,7 +18,7 @@
     text-align: center;
     background: #14171a;
     color: rgb(213, 223, 238);
-    background-image: url(https://github.com/datfoosteve/BeginnersPortfolio/blob/ac8d67199987f6cb67bcfb89ba302e1e0853e613/assets/images/background1.jpg);
+    background-image: url("/assets/images/background1.jpg");
     /* background-blend-mode: luminosity; */
     background-size: cover;
     
@@ -60,7 +60,7 @@
   }
   
   aside {
-    background-image: url("https://github.com/datfoosteve/BeginnersPortfolio/blob/b5af2aad6ca1bd6ce517787f0b584768da2aaef5/assets/images/background2.jpg");
+    background-image: url("/assets/images/background2.jpg");
     background-position: center;
     opacity: 99%;
     justify-content: space-around;
@@ -83,7 +83,7 @@
     background-color: #000000ee;
   }
   footer {
-    background-image: url("https://github.com/datfoosteve/BeginnersPortfolio/blob/ac8d67199987f6cb67bcfb89ba302e1e0853e613/assets/images/background1.jpg");
+    background-image: url("/assets/images/background1.jpg");
     background-size: contain;
     width: 100%;
     bottom: 0;
@@ -105,7 +105,7 @@
 
   .products {
     flex: 4;
-    background-image: url("https://github.com/datfoosteve/BeginnersPortfolio/blob/b5af2aad6ca1bd6ce517787f0b584768da2aaef5/assets/images/background2.jpg");
+    background-image: url("/assets/images/background2.jpg");
     background-size: contain;
     padding: 50px;
     display: flex;
